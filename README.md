@@ -1,5 +1,3 @@
-Aqui está a versão atualizada do README com as tecnologias reais usadas no projeto:  
-
 ---
 
 # Kakapo Realtime Tracking 🚑
@@ -48,3 +46,5 @@ O **Kakapo Realtime Tracking** é uma solução baseada em GPS e comunicação e
    flutter run
    ```
 Se precisar de mais alguma atualização, só avisar! 🚀
+
+---
