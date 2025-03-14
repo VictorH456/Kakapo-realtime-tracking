@@ -15,7 +15,7 @@ O **Kakapo Realtime Tracking** é uma solução baseada em GPS e comunicação e
 - **Frontend:** Flutter  
 - **Backend:** Firebase (Realtime Database, Firestore, Authentication)  
 - **Banco de Dados:** Firebase Firestore  
-- **Hardware:** Arduino Mega, módulo GPS, comunicação via 4G  
+- **Hardware:** Esp32, módulo GPS, comunicação via 4G  
 - **Outros:** Google Maps API, WebSockets  
 
 ## 🚀 Funcionalidades
